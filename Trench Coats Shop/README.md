@@ -1,0 +1,1 @@
+An interactive application for managing and browsing a collection of trench coats, with features for adding new items, updating existing information, and removing items. It provides a user-friendly way to explore and interact with the collection.
