@@ -1,1 +1,0 @@
-An application that allows users to rent and manage movies, featuring an easy-to-use console interface for administration and user access.
