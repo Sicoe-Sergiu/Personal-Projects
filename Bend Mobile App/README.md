@@ -1,0 +1,1 @@
+A simple mobile app for managing and displaying booking information for events.
