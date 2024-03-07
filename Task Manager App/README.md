@@ -1,0 +1,1 @@
+A web application that allows users to manage their daily tasks and projects. It features functionalities for adding new tasks, setting deadlines, and monitoring project progress.
