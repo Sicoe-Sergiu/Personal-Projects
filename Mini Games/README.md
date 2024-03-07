@@ -1,0 +1,1 @@
+Collection of mini games with various genres and mechanics, designed to provide quick and entertaining gaming experiences.
