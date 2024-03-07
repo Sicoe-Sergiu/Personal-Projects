@@ -1,0 +1,1 @@
+The Quiz App is a dynamic, interactive platform designed to engage users in a fun and competitive environment. Built with modern C++ and leveraging the Qt framework for its user interface, this app challenges participants with a series of questions, tracks their scores, and displays results in real-time.
