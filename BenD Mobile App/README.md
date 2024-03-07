@@ -1,0 +1,1 @@
+A simple application to manage and display booking information for music events.
