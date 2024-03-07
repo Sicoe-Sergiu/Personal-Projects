@@ -1,0 +1,1777 @@
+ID: 1
+Execution stack: 
+(string varf ; (varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+string varf
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+string varf
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+varf = "test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+varf = "test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(string varf ; (varf = "com/example/myinterpreter_gui_2/test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+string varf
+(varf = "com/example/myinterpreter_gui_2/test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+string varf
+(varf = "com/example/myinterpreter_gui_2/test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(varf = "com/example/myinterpreter_gui_2/test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(varf = "com/example/myinterpreter_gui_2/test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+varf = "com/example/myinterpreter_gui_2/test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+varf = "com/example/myinterpreter_gui_2/test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Symbol table: 
+varf -> "com/example/myinterpreter_gui_2/test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(string varf ; (varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+string varf
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+string varf
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+varf = "test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+varf = "test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(string varf ; (varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+string varf
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+string varf
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+varf = "test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+varf = "test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 1
+Execution stack: 
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+0
+0
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+(string varf ; (varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+string varf
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+string varf
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+(varf = "test.in" ; (OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+varf = "test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+varf = "test.in"
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> ""
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+(OpenReadFile(varf) ; (int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+OpenReadFile(varf)
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+Heap table:
+
+ID: 2
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+(int varc ; (ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+int varc
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 0
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 33
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+(Print(varc) ; (ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf))))
+Symbol table: 
+varf -> "test.in"
+varc -> 33
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 33
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+Print(varc)
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 33
+Output list: 
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 33
+Output list: 
+33
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+(ReadFile(varf, varc) ; (Print(varc) ; CloseReadFile(varf)))
+Symbol table: 
+varf -> "test.in"
+varc -> 33
+Output list: 
+33
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 33
+Output list: 
+33
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+ReadFile(varf, varc)
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 33
+Output list: 
+33
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 12
+Output list: 
+33
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+(Print(varc) ; CloseReadFile(varf))
+Symbol table: 
+varf -> "test.in"
+varc -> 12
+Output list: 
+33
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 12
+Output list: 
+33
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+Print(varc)
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 12
+Output list: 
+33
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 12
+Output list: 
+33
+12
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+CloseReadFile(varf)
+Symbol table: 
+varf -> "test.in"
+varc -> 12
+Output list: 
+33
+12
+File table:
+test.in
+Heap table:
+
+ID: 2
+Execution stack: 
+Symbol table: 
+varf -> "test.in"
+varc -> 12
+Output list: 
+33
+12
+File table:
+Heap table:
+

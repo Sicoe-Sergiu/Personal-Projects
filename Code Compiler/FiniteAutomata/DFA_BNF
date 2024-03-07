@@ -1,0 +1,19 @@
+<automaton> ::= "states" <state-list> "alphabet" <symbol-list> "transitions" <transition-list> "initial" <state> "final" <final-states>
+
+<state-list> ::= <state> { <state> }
+
+<symbol-list> ::= <symbol> { <symbol> }
+
+<transition-list> ::= <transition> { <transition> }
+
+<final-states> ::= <state> { <state> }
+
+<state> ::= "q" <digit> { <digit> }
+
+<symbol> ::= <letter> | <digit>
+
+<transition> ::= <state> <symbol> "-" <state>
+
+<letter> ::= "a" | "b" | ... | "z" | "A" | "B" | ... | "Z"
+
+<digit> ::= "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9"
