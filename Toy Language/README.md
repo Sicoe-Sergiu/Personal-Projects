@@ -1,0 +1,1 @@
+This project implements a simple toy language interpreter, designed to teach basic concepts of computational theory and language parsing. It provides a framework for executing simple programs that illustrate the foundations of programming and computation.
