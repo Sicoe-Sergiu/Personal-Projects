@@ -1,0 +1,1 @@
+This project is a full-stack web application designed for managing a record label's operations, artist rosters, album releases, and event promotions. Built with Django in the backend and React in the frontend, it provides an interactive and user-friendly interface for record label administrators and fans alike.

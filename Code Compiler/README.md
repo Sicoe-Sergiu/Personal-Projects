@@ -1,0 +1,1 @@
+Welcome to the Code Compiler project, a comprehensive solution designed for compiling code . Leveraging Python's power, this project includes a scanner, symbol table, and parsers to efficiently analyze and compile code. It's equipped with detailed documentation and examples to facilitate understanding and usage.
