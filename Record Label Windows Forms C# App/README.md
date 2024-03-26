@@ -1,1 +1,1 @@
-A Windows Forms application implemented in C# that manages a record label's artists and their music releases. It features a user-friendly gui for tracking artist information, album releases, and sales data.
+A Windows Forms application implemented in C# that manages a record label's artists and their music releases. It features a user-friendly gui for tracking artist information, album releases, and artists managers data.
